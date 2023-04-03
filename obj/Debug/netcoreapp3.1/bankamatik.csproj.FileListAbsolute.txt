@@ -1,0 +1,14 @@
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\bin\Debug\netcoreapp3.1\bankamatik.exe
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\bin\Debug\netcoreapp3.1\bankamatik.deps.json
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\bin\Debug\netcoreapp3.1\bankamatik.runtimeconfig.json
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\bin\Debug\netcoreapp3.1\bankamatik.runtimeconfig.dev.json
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\bin\Debug\netcoreapp3.1\bankamatik.dll
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\bin\Debug\netcoreapp3.1\bankamatik.pdb
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\obj\Debug\netcoreapp3.1\bankamatik.csproj.AssemblyReference.cache
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\obj\Debug\netcoreapp3.1\bankamatik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\obj\Debug\netcoreapp3.1\bankamatik.AssemblyInfoInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\obj\Debug\netcoreapp3.1\bankamatik.AssemblyInfo.cs
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\obj\Debug\netcoreapp3.1\bankamatik.csproj.CoreCompileInputs.cache
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\obj\Debug\netcoreapp3.1\bankamatik.dll
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\obj\Debug\netcoreapp3.1\bankamatik.pdb
+C:\Users\tekta\OneDrive\Masaüstü\sadikturan_netcore_notları\bankamatik\obj\Debug\netcoreapp3.1\bankamatik.genruntimeconfig.cache

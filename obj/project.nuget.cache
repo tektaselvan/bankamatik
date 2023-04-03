@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RkXP9J2xDWZGM1vWN77KAuGWjTIe5wvlzYAmZ0ks38UY//ay1aRCwXUkq8TXOLFJA8F84ZxJeOGTludCo7V2ZQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tekta\\OneDrive\\Masaüstü\\sadikturan_netcore_notları\\bankamatik\\bankamatik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tekta\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.31\\microsoft.netcore.app.host.win-x64.3.1.31.nupkg.sha512"
+  ],
+  "logs": []
+}
